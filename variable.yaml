@@ -1,0 +1,3 @@
+enableSecurity:
+  type: boolean
+  default: false
